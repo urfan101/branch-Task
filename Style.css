@@ -3,6 +3,33 @@
     padding: 0;
     box-sizing: border-box;
 }
+#products {
+    padding: 50px 0;
+}
+
+.card {
+    position: relative;
+}
+
+.sale {
+    position: absolute;
+    font-size: 14px;
+    padding: 5px 15px;
+    background-color: black;
+    color: white;
+    top: 3px;
+    right: 3px;
+    border-radius: 15px;
+}
+footer{
+    padding: 40px 0;
+    background-color: rgb(44,44,44);
+    color:white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+
 
 #navbar {
     display: flex;
@@ -95,4 +122,5 @@
 #web-top h1 {
     font-size: 60px;
     margin-bottom: 10px;
+
 }
