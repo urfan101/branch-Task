@@ -1,6 +1,6 @@
 * {
-    margin: 0;
-    padding: 0;
+    margin: 0px;
+    padding: 0px;
     box-sizing: border-box;
 }
 
@@ -62,8 +62,10 @@
     background-color: white;
     border: 0.7px solid gray;
     border-radius: 5px;
-    left: 32%;
-    bottom: -150%;
+    left:38%;
+    top: 70px;
+    /* left: 32%;
+    bottom: -150%; */
 }
 .disp-none {
     display: none;
